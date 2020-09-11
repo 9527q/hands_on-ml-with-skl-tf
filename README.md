@@ -4,7 +4,7 @@ Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
 
 构建智能系统的概念、工具和技术
 
-
+![书籍封面](./images/book-cover.png)
 
 ## 目录
 
